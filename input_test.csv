@@ -1,0 +1,6 @@
+customer_id,billing_amount,tax_amount
+1,$100,10
+2,$200,20
+3,$300,30
+4,$400,40
+5,$500,50
